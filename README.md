@@ -30,3 +30,6 @@ raw dataset:
 
 
 ## Data Cleaning
+Tidak ada kolom yang saya hapus dari dataset, karena saya masih mempertimbangkannya untuk analisis.  
+Standardisasi kolom:
+seniorCitizen: mengubah angka 0 menjadi No, dan angka 1 menjadi Yes.  
