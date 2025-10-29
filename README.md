@@ -33,3 +33,8 @@ raw dataset:
 Tidak ada kolom yang saya hapus dari dataset, karena saya masih mempertimbangkannya untuk analisis.  
 Standardisasi kolom:
 seniorCitizen: mengubah angka 0 menjadi No, dan angka 1 menjadi Yes.  
+MultipleLines: Mengubah "no phone service" menjadi "No", sehingga hanya ada Yes/No.  
+OnlineService: Mengubah "no internet service" menjadi "No", sehingga hanya ada Yes/No.
+Begitu juga pada kolom: OnlineBackup, DeviceProtection, TechSupport, StreamingTV, StreamingMovies.  
+Capital Each Word pada kolom PaymentMethod.  
+Menambahkan kolom baru: TenureGroup (membagi setiap tenure ke dalam 12 bulan)
