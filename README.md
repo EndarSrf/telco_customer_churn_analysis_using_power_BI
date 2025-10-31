@@ -38,3 +38,5 @@ OnlineService: Mengubah "no internet service" menjadi "No", sehingga hanya ada Y
 Begitu juga pada kolom: OnlineBackup, DeviceProtection, TechSupport, StreamingTV, StreamingMovies.  
 Capital Each Word pada kolom PaymentMethod.  
 Menambahkan kolom baru: TenureGroup (membagi setiap tenure ke dalam 12 bulan)
+
+Exploratory Analysis
